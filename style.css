@@ -28,8 +28,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
-
-  font-weight: 400;
+  height: 100vh;
 }
 
 body * {
