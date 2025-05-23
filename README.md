@@ -23,6 +23,6 @@ This project was developed using:
 
 This project is a responsive, theme-switchable link aggregator that you can use as a business card on your social networks.
 
-<!-- - [Access the finished project online](https://jujbraga.github.io/link-tree) -->
+- [Access the finished project online](https://jujbraga.github.io/link-tree/)
 
 
