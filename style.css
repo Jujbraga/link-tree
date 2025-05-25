@@ -13,7 +13,7 @@
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(255, 255, 255, 0.2);
-  --switch-url: url(/assets/MoonStars.svg);
+  --switch-url: url(./assets/moon-star.svg);
 }
 
 .light {
@@ -23,7 +23,7 @@
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.1);
-  --switch-url: url(/assets/Sun.svg);
+  --switch-url: url(./assets/Sun.svg);
 }
 
 body {
